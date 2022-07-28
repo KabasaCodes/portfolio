@@ -1,15 +1,11 @@
 
-let folela = "Adegeye idowu"
+// function myFunction() {
+//     var icon = document.querySelector(".navbar");
 
-
-console.log(folela);
-
-
-let number1 = 34
-
-let number2 = 45
-
-let totalNumber = number1 * number2
-
-
-console.log(totalNumber);
+    
+//     if (icon.style.display === "block") {
+//         icon.style.display = "none";
+//     } else {
+//         icon.style.display = "block";
+//     }
+//   }
